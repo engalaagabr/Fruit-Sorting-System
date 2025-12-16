@@ -1,4 +1,4 @@
-# Automated Fruit Sorting System (Computer Vision Based)
+# Automated Fruit Sorting System
 
 ## Project Overview
 
